@@ -1,5 +1,8 @@
 # eurowings-challenge
 
+# Live Demo
+https://sparkly-marshmallow-5db69e.netlify.app/
+
 # Screenshot
 ![App preview screenshot](screenshot.png)
 
