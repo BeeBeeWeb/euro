@@ -1,5 +1,11 @@
 # eurowings-challenge
 
+# Screenshot
+![App preview screenshot](screenshot.png)
+
+# Testing Coverage
+![Testing coverage report](coverage-report.png)
+
 ## Project setup
 ```
 npm install

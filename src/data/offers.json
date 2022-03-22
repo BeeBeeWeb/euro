@@ -1,0 +1,316 @@
+{
+  "data": [
+    {
+      "origin": "FRA",
+      "destination": "FCO",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "7",
+      "offerType": "Best Price",
+      "uuid": "1",
+      "price": {
+        "amount": "128.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "AAQ",
+      "destination": "ABJ",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "9",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "128.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "FRA",
+      "destination": "ABZ",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "3",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "99.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "ACC",
+      "destination": "ADB",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "32",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "289.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "ADB",
+      "destination": "ACE",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "13",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "349.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "FRA",
+      "destination": "ADD",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "34",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "229.21",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "ADL",
+      "destination": "ABZ",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "11",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "199.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "AER",
+      "destination": "BET",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "2",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "419.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "CKG",
+      "destination": "BEY",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "15",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "529.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "FRA",
+      "destination": "ABZ",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "16",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "392.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "BKK",
+      "destination": "BEY",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "20",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "113.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "CKG",
+      "destination": "EXT",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "23",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "159.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "FCO",
+      "destination": "LIN",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "32",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "169.23",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "FRA",
+      "destination": "HKG",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "33",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "139.09",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "HRG",
+      "destination": "IAD",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "34",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "120.77",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "ICN",
+      "destination": "LIN",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "19",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "134.54",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "MUC",
+      "destination": "IKT",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "27",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "151.91",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "NAS",
+      "destination": "NAP",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "21",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "177.32",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "PTY",
+      "destination": "PEN",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "40",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "145.22",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "RAK",
+      "destination": "BLL",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "36",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "111.98",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "PDX",
+      "destination": "CDG",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "14",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "187.11",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "CIA",
+      "destination": "ROC",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "4",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "144.28",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "RTM",
+      "destination": "DAY",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "28",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "119.56",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "SVX",
+      "destination": "DEL",
+      "departureDate": "2022-04-13",
+      "returnDate": "2022-04-13",
+      "seatAvailability": "11",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "179.21",
+        "currency": "EUR"
+      }
+    }
+  ]
+}
